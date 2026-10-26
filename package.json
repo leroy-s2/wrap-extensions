@@ -1,0 +1,15 @@
+{
+  "name": "wrap-extensions",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "convert": "node scripts/convert.mjs"
+  },
+  "dependencies": {
+    "protobufjs": "^8.8.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
